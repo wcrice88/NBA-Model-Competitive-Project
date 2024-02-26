@@ -1,0 +1,1 @@
+Using some data granted as part of a data analytics sports competition, I answered questions on specific numerical issues using analytical techniques and programming, created a logistic machine learning model using a random forest, and discussed methods of using certain values based on smaple sizes and data discrepancy.
